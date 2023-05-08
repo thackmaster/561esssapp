@@ -1,3 +1,0 @@
-- (**Functionality**) (**MONITORING**) Items can sometimes get “stuck” when assigned to another user. Please contact a SharePoint admin or the CSS if you need assistance with this.
-  - A fix for this issue was implemented in v1.4.2. Please contact a SharePoint admin if the issue persists.
-- (**Functionality**) An issue preventing the display of the “No Items Assigned” can occur if an individual has an item with a suspense date and that item is cancelled. This issue can be resolved by a SharePoint admin by deleting the item causing the issue.
