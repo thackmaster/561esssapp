@@ -5,7 +5,7 @@ For the best experience, please create or log in with a GitHub account. This wil
 
 [:bug: SUBMIT A BUG REPORT](https://github.com/thackmaster/561esssapp/issues/new?assignees=thackmaster&labels=bug&template=bug_report.yaml)
 
-[:new: SUBMIT A FEATURE REQUESTS](https://github.com/thackmaster/561esssapp/issues/new?assignees=thackmaster&labels=enhancement&template=feature_request.yaml)
+[:raising_hand: SUBMIT A FEATURE REQUESTS](https://github.com/thackmaster/561esssapp/issues/new?assignees=thackmaster&labels=enhancement&template=feature_request.yaml)
 
 ## Extras
 
